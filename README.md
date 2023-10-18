@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  I'm <strong>Your Name</strong>, a passionate Python enthusiast and data science enthusiast.
+  I'm <strong>Anthony</strong>, a passionate Python enthusiast and data science enthusiast.
   I'm excited about the vast possibilities of Python in programming, data analysis, machine learning, and more.
 </p>
 
@@ -47,7 +47,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?CodeFalcon363=CodeFalcon363&show_icons=true" alt="Your GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeFalcon363&show_icons=true" alt="Your GitHub Stats">
 </p>
 
 <!---
