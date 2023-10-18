@@ -42,7 +42,7 @@
 <!-- Connect with Me -->
 <h3 align="center">🌍 Connect</h3>
 <p align="center">
-  Let's connect and explore the world of data together! You can find me on <a href="https://www.linkedin.com/in/Oise">LinkedIn</a>, <a href="https://twitter.com/RichTonyy">Twitter</a>, and <a href="https://www.Instagram.com/richtony.dev">Instagram</a>.
+  Let's connect and explore the world of data together! You can find me on <a href="https://www.linkedin.com/in/oise">LinkedIn</a>, <a href="https://twitter.com/RichTonyy">Twitter</a>, and <a href="https://www.Instagram.com/richtony.dev">Instagram</a>.
 </p>
 
 <!-- GitHub Stats -->
