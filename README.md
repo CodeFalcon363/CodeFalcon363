@@ -25,16 +25,6 @@
 - 📚 I'm a lifelong learner, always eager to expand my knowledge and explore new coding challenges.
 - 🤝 Open to collaboration and discussions on tech-related topics.
 
-
-<!-- Connect with Me -->
-<h3 align="left">🌍 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RichTonyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RichTonyy"  width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oise/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oise/"  width="40" /></a>
-</p>
-
-<p>&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png" alt="flask" width="40" height="40"/> <img src="https://www.w3schools.com/ai/img_tensorflow.jpg" alt="Tensorflow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </p>
-
 <!-- Skills -->
 <h3 align="left">🛠️ Skills</h3>
 <p align="left">
@@ -44,6 +34,19 @@
   <strong>Tools & Frameworks:</strong> Jupyter, Flask, Git<br>
   <strong>Databases:</strong> MySQL
 </p>
+
+<p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/><img src="https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=webp&w=512" alt="flask" width="40" height="40"/> <img src="https://www.w3schools.com/ai/img_tensorflow.jpg" alt="Tensorflow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="Laravel" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </p>
+
+<!-- Connect with Me -->
+<h3 align="left">🌍 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/RichTonyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RichTonyy"  width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oise/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oise/"  width="40" /></a>
+</p>
+
+
+
+
 
 
 
