@@ -18,15 +18,12 @@
 
 <p align="left"> <a href="https://twitter.com/RichTonyy" target="blank"><img src="https://img.shields.io/twitter/follow/RichTonyy?logo=twitter&style=for-the-badge" alt="RichTonyy" /></a> </p>
 
-<!-- Skills -->
-<h3 align="left">🛠️ Skills</h3>
-<p align="left">
-  <strong>Languages:</strong> Python, SQL<br>
-  <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
-  <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
-  <strong>Tools & Frameworks:</strong> Jupyter, Flask, Git<br>
-  <strong>Databases:</strong> MySQL
-</p>
+- 🌱 I’m currently learning **Tensorflow**.
+- 💬 Ask me about **web development**, **data**, and **AI**.
+- 🚀 I'm passionate about **building python applications** and **exploring the data science**.
+- 📫You can reach me at: [anthonyoise@gmail.com](mailto:anthonyoise@gmail.com).
+- 📚 I'm a lifelong learner, always eager to expand my knowledge and explore new coding challenges.
+- 🤝 Open to collaboration and discussions on tech-related topics.
 
 
 <!-- Connect with Me -->
@@ -35,6 +32,20 @@
 <a href="https://twitter.com/RichTonyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RichTonyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oise/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oise/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> <img src="https://www.w3schools.com/ai/img_tensorflow.jpg" alt="Tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<!-- Skills -->
+<h3 align="center">🛠️ Skills</h3>
+<p align="center">
+  <strong>Languages:</strong> Python, SQL<br>
+  <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
+  <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
+  <strong>Tools & Frameworks:</strong> Jupyter, Flask, Git<br>
+  <strong>Databases:</strong> MySQL
+</p>
+
 
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeFalcon363&show_icons=true&locale=en&layout=compact" alt="CodeFalcon363" /></p>
