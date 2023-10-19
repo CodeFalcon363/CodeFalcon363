@@ -28,10 +28,10 @@
 <!-- Skills -->
 <h3 align="left">🛠️ Skills</h3>
 <p align="left">
-  <strong>Languages:</strong> Python, SQL<br>
+  <strong>Languages:</strong> Python, PHP, SQL, HTML<br>
   <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
   <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
-  <strong>Tools & Frameworks:</strong> Jupyter, Flask, Git<br>
+  <strong>Tools & Frameworks:</strong> Jupyter, Flask, Laravel, Git<br>
   <strong>Databases:</strong> MySQL
 </p>
 
