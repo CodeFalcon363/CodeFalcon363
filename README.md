@@ -13,7 +13,7 @@
 </p>
 
 <!-- Photo -->
-<img align="right" alt="Anthony" width="400" src="https://richtony.dev/wp-content/uploads/2023/10/richtonyy_1697661547063-e1697661617609.jpeg">
+<img align="right" alt="Anthony" width="300" src="https://richtony.dev/wp-content/uploads/2023/10/richtonyy_1697661547063-e1697661617609.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeFalcon363&label=Profile%20views&color=0e75b6&style=flat" alt="Anthony" /> </p>
 
 <p align="left"> <a href="https://twitter.com/RichTonyy" target="blank"><img src="https://img.shields.io/twitter/follow/RichTonyy?logo=twitter&style=for-the-badge" alt="RichTonyy" /></a> </p>
@@ -33,18 +33,17 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oise/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oise/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> <img src="https://www.w3schools.com/ai/img_tensorflow.jpg" alt="Tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
 <!-- Skills -->
-<h3 align="center">🛠️ Skills</h3>
-<p align="center">
+<h3 align="Left">🛠️ Skills</h3>
+<p align="Left">
   <strong>Languages:</strong> Python, SQL<br>
   <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
   <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
   <strong>Tools & Frameworks:</strong> Jupyter, Flask, Git<br>
   <strong>Databases:</strong> MySQL
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png" alt="flask" width="40" height="40"/> <img src="https://www.w3schools.com/ai/img_tensorflow.jpg" alt="Tensorflow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 <!-- GitHub Stats -->
