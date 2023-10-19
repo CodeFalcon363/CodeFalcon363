@@ -18,34 +18,22 @@
 
 <p align="left"> <a href="https://twitter.com/RichTonyy" target="blank"><img src="https://img.shields.io/twitter/follow/RichTonyy?logo=twitter&style=for-the-badge" alt="RichTonyy" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,C++ java**
+<!-- Skills -->
+<h3 align="left">🛠️ Skills</h3>
+<p align="left">
+  <strong>Languages:</strong> Python, SQL<br>
+  <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
+  <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
+  <strong>Tools & Frameworks:</strong> Jupyter, Flask, Git<br>
+  <strong>Databases:</strong> MySQL
+</p>
 
-- 💬 Ask me about **web development**
-
-- 📫 How to reach me **aishaomarfarah@gmail,com**
 
 <!-- Connect with Me -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RichTonyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RichTonyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oise/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oise/" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-
-
-<!-- Work Experience -->
-<h3 align="center">💼 Work</h3>
-<p align="center">
-  I'm currently working as a <strong>Data Analysis & Web development</strong> <strong>Freelancer</strong> <!--, where I [briefly describe your responsibilities and achievements]-->.
-</p>
-
-<h3 align="center">🌍 Connect</h3>
-<p align="center">
-  Let's connect and explore the world of data together! You can find me on <a href="https://www.linkedin.com/in/oise">LinkedIn</a>, <a href="https://twitter.com/RichTonyy">Twitter</a>, and <a href="https://www.Instagram.com/richtony.dev">Instagram</a>.
 </p>
 
 <!-- GitHub Stats -->
