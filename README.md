@@ -3,13 +3,13 @@
 
 <!-- Introduction -->
 <p align="center">
-  I'm <strong>Anthony</strong>, a passionate Python enthusiast and data science enthusiast.
-  I'm excited about the vast possibilities of Python in programming, data analysis, machine learning, and more.
+  I'm <strong>Anthony</strong>, a passionate Web Development and data science enthusiast.
+  I'm excited about the vast possibilities in ASP .NET core programming, machine learning, and more.
 </p>
 
 <!-- Bio -->
 <p align="center">
-  <em>Let's explore the world of data together!</em>
+  <em>Let's explore the world of web development together!</em>
 </p>
 
 <!-- Photo -->
@@ -18,9 +18,9 @@
 
 <p align="left"> <a href="https://twitter.com/RichTonyy" target="blank"><img src="https://img.shields.io/twitter/follow/RichTonyy?logo=twitter&style=for-the-badge" alt="RichTonyy" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow**.
+- 🌱 I’m currently learning **C#**.
 - 💬 Ask me about **web development**, **data**, and **AI**.
-- 🚀 I'm passionate about **building python applications** and **exploring the data science**.
+- 🚀 I'm passionate about **building .NET applications**.
 - 📫You can reach me at: [anthonyoise@gmail.com](mailto:anthonyoise@gmail.com).
 - 📚 I'm a lifelong learner, always eager to expand my knowledge and explore new coding challenges.
 - 🤝 Open to collaboration and discussions on tech-related topics.
@@ -28,10 +28,11 @@
 <!-- Skills -->
 <h3 align="left">🛠️ Skills</h3>
 <p align="left">
-  <strong>Languages:</strong> Python, PHP, SQL, HTML<br>
+  <strong>Languages:</strong> C#, PHP, Python, SQL, HTML<br>
+  <strong>Web Development:</strong>ASP .NET Core, Laravel, Flask<br>
   <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
   <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
-  <strong>Tools & Frameworks:</strong> Jupyter, Flask, Laravel, Git<br>
+  <strong>Tools & Frameworks:</strong> ASP .NET Core, Flask, Laravel, Git<br>
   <strong>Databases:</strong> MySQL
 </p>
 
