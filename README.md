@@ -4,7 +4,7 @@
 <!-- Introduction -->
 <p align="center">
   I'm <strong>Anthony</strong>, a passionate Web Development and data science enthusiast.
-  I'm excited about the vast possibilities in ASP .NET core programming, machine learning, and more.
+  I'm excited about the vast possibilities in ASP .NET core programming, Laravel, Machine learning, and more.
 </p>
 
 <!-- Bio -->
@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **C#**.
 - 💬 Ask me about **web development**, **data**, and **AI**.
-- 🚀 I'm passionate about **building .NET applications**.
+- 🚀 I'm passionate about **building .NET and PHP applications**.
 - 📫You can reach me at: [anthonyoise@gmail.com](mailto:anthonyoise@gmail.com).
 - 📚 I'm a lifelong learner, always eager to expand my knowledge and explore new coding challenges.
 - 🤝 Open to collaboration and discussions on tech-related topics.
