@@ -9,7 +9,7 @@
 
 <!-- Bio -->
 <p align="center">
-  <em>Let's explore the world of web development together!</em>
+  <em>Let's explore web development together!</em>
 </p>
 
 <!-- Photo -->
