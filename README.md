@@ -33,7 +33,7 @@
   <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
   <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
   <strong>Tools & Frameworks:</strong> ASP .NET Core, Flask, Laravel, Git<br>
-  <strong>Tools & Frameworks:</strong> IBM Cloud, Microsoft Azure<br>
+  <strong>Cloud platforms:</strong> IBM Cloud, Microsoft Azure<br>
   <strong>Databases:</strong> MySQL
 </p>
 
