@@ -3,13 +3,13 @@
 
 <!-- Introduction -->
 <p align="center">
-  I'm <strong>Anthony</strong>, a passionate Web Development and data science enthusiast.
-  I'm excited about the vast possibilities in ASP .NET core programming, Laravel, Machine learning, and more.
+  I'm <strong>Anthony</strong>, a passionate Web Development and cloud solutions enthusiast.
+  I'm excited about the vast possibilities in ASP .NET core programming, building cloud native applications and more.
 </p>
 
 <!-- Bio -->
 <p align="center">
-  <em>Let's explore web development together!</em>
+  <em>Let's explore .NET development together!</em>
 </p>
 
 <!-- Photo -->
@@ -18,9 +18,9 @@
 
 <p align="left"> <a href="https://twitter.com/RichTonyy" target="blank"><img src="https://img.shields.io/twitter/follow/RichTonyy?logo=twitter&style=for-the-badge" alt="RichTonyy" /></a> </p>
 
-- 🌱 I’m currently learning **C#**.
-- 💬 Ask me about **web development**, **data**, and **AI**.
-- 🚀 I'm passionate about **building .NET and PHP applications**.
+- 🌱 I’m currently learning **Microsoft Azure**.
+- 💬 Ask me about **.NET development**, **cloud solutions**, and **AI**.
+- 🚀 I'm passionate about **building .NET and cloud native applications**.
 - 📫You can reach me at: [anthonyoise@gmail.com](mailto:anthonyoise@gmail.com).
 - 📚 I'm a lifelong learner, always eager to expand my knowledge and explore new coding challenges.
 - 🤝 Open to collaboration and discussions on tech-related topics.
@@ -33,6 +33,7 @@
   <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
   <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
   <strong>Tools & Frameworks:</strong> ASP .NET Core, Flask, Laravel, Git<br>
+  <strong>Tools & Frameworks:</strong> IBM Cloud, Microsoft Azure<br>
   <strong>Databases:</strong> MySQL
 </p>
 
