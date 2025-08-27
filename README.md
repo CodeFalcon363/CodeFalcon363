@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/RichTonyy" target="blank"><img src="https://img.shields.io/twitter/follow/RichTonyy?logo=twitter&style=for-the-badge" alt="RichTonyy" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure**.
+- 🌱 I’m currently learning **.NET**.
 - 💬 Ask me about **.NET development**, **cloud solutions**, and **AI**.
 - 🚀 I'm passionate about **building .NET and cloud native applications**.
 - 📫You can reach me at: [anthonyoise@gmail.com](mailto:anthonyoise@gmail.com).
@@ -33,7 +33,7 @@
   <strong>Data Science:</strong> Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br>
   <strong>Machine Learning:</strong> Regression, Classification, Clustering, NLP<br>
   <strong>Tools & Frameworks:</strong> ASP .NET Core, Flask, Laravel, Git<br>
-  <strong>Cloud platforms:</strong> IBM Cloud, Microsoft Azure<br>
+  <strong>Cloud platforms:</strong> IBM Cloud<br>
   <strong>Databases:</strong> MySQL
 </p>
 
